@@ -1,0 +1,16 @@
+# Ignore files with .txt extension
+*.txt
+
+# Ignore JPG files
+*.jpg
+*.png
+
+# ignore all image file in images directory
+images/*.jpg
+images/*.png
+
+# Ignore the directory named "logs"
+/logs/
+
+# Ignore all files in the "temp" directory
+/temp/*
